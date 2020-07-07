@@ -1,6 +1,6 @@
 #include<iostream>
 int main(){
 	cout<<"Yahoo";
-	cout<<"Gulafsha";
+	cout<<"Gulafsha new change";
 	return 0;
 }
